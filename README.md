@@ -5,14 +5,6 @@ A better way to make GUIs for your Python apps
 
 Use HTML, JavaScript and CSS to make highly customized, cross platfrom desktop apps which use native Python backends.
 
-https://youtu.be/627VBkAhKTc
-
-<img src="/samples/1.png" width="50%" />
-<img src="/samples/3.png" width="50%" />
-
-
-
-
 Note: This is for educational purposes only, this may not be efficient or bug-free. Also, this is just a demo on how
 JS and Python can be used to interact together. This demo is *NOT* meant to show face detection or object detection.
 

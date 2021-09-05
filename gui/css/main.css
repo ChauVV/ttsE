@@ -1,14 +1,15 @@
 textarea { 
     width: 100%;
-    height: 80%;
+    height: 90%;
     resize: none;
     padding: 1em;
+    background-color:blanchedalmond;
  }
 
- .jumbotron.content {
+ .container.content {
     margin-top: 20;
     width: 100%;
-    height: 92%;
+    height: 90%;
  }
  .btn.btn-clear {
     margin-right: 20;

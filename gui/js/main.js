@@ -53,4 +53,5 @@ function convert() {
 
 function clearText() {
     document.getElementById("strInput").value = ''
+    document.getElementById("strInput").focus();
 }
